@@ -1,6 +1,6 @@
 <h1>Vue 3 + Vite todo list :clipboard:</h1>
 
-<h2>Setting Up a New Node Project from GitHub</h2>
+<h2>Setting Up a New Node Project from GitHub :</h2>
 
 <h3>Cloning is a process of downloading a repository from a remote server via using the clone command :computer: :</h3>
 
